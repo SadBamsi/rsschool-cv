@@ -1,1 +1,1 @@
-# rsschool-cv
+ https://SadBamsi.github.io/rsschool-cv/cv
