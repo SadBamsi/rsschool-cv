@@ -1,4 +1,4 @@
-Maslau Aleh<br>
+Maslau Aleh <br>
 Email: Maslov.oleg1988@yandex.ru<br>
 Phone number: [+375296124078](+375296124078) <br>
 I want to improve my knowledge in JS to move from layout to development 
